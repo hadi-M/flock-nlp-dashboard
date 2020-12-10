@@ -1,0 +1,4 @@
+Scrapy==2.4.1
+dash==1.13.4
+pandas==1.1.2
+dash-bootstrap-components==0.10.7
